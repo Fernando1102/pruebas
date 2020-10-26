@@ -1,0 +1,11 @@
+Comandos
+
+#En la carpeta que vayamos a usar siempre es recomendable 
+git init
+
+# Ver el estado del repo y saber cuales esatn en el staging area
+git status
+
+# ver la carpeta en la que estamos usando bash
+pwd
+
