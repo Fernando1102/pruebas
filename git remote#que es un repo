@@ -16,3 +16,5 @@ git remote remove origin
 git push origin master
 
 agregamos los cambios para subir al github
+
+agregamos una rama nueva para subir a github
