@@ -1,0 +1,7 @@
+git remote#que es un repo
+Es un proyecto
+
+#remotos es github y locales es nuestra computadora
+
+#para pegar el remoto a la computadora es
+git remote add origin https://github.com/Fernando1102/pruebas.git 
