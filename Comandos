@@ -18,3 +18,12 @@ git log
 #para  ver el último comit 
 git checkout master
 
+#para borrar los commit el git reset mas simple y que no toca niestro Working area (nuestro codigo)
+git reset --soft
+
+#para borrar los commit el git reset mas simple y que no toca niestro Working area y staging area.
+git reset --mixed
+
+#para borrar ltodo lo que hay en el commit
+git reset --hard
+
