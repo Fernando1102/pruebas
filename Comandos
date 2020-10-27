@@ -15,3 +15,6 @@ git commit -m "cambio1"
 #Para ver la información de todos los commit
 git log
 
+#para  ver el último comit 
+git checkout master
+
