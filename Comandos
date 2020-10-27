@@ -19,13 +19,13 @@ git log
 git checkout [nombre de la rama o del commit]
 
 #para borrar los commit el git reset mas simple y que no toca niestro Working area (nuestro codigo)
-git reset --soft
+git reset --soft [nombre del comit]
 
 #para borrar los commit el git reset mas simple y que no toca niestro Working area y staging area.
-git reset --mixed
+git reset --mixed [nombre del commit]
 
 #para borrar ltodo lo que hay en el commit
-git reset --hard
+git reset --hard [nombre del commit]
 
 #para genererar un archivo del log
 git log > commits.txt
