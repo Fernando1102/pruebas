@@ -16,4 +16,7 @@ git branch
 #para movernos entre ramas es
 git checkout  [nombre de la rama]
 
+#para borrar la rama es 
+git branch -d [nombre de la rama]
+
 
