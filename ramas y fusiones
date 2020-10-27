@@ -19,4 +19,11 @@ git checkout  [nombre de la rama]
 #para borrar la rama es 
 git branch -d [nombre de la rama]
 
+#FUSIONES
+	# para fusionar las ramas primero debemos colocarnos en la rama a la que nos vamos a fusionar ejemplo si quieremos copiar de test a master, nos colocamos en la rama master primero
+
+#para fuisionar la rama hacemos
+git merge [nombre de la rama]
+
+
 
