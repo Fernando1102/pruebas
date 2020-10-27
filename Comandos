@@ -15,8 +15,8 @@ git commit -m "cambio1"
 #Para ver la información de todos los commit
 git log
 
-#para  ver el último comit 
-git checkout master
+#para  ver el último comit o cambiarnos de commit 
+git checkout [nombre de la rama o del commit]
 
 #para borrar los commit el git reset mas simple y que no toca niestro Working area (nuestro codigo)
 git reset --soft
