@@ -9,3 +9,6 @@ git status
 # ver la carpeta en la que estamos usando bash
 pwd
 
+#para hacer el commit
+git commit -m "cambio1"
+
