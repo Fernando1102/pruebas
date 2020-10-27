@@ -1,3 +1,4 @@
-merge manual
+crear una rama y moverme a a ella al mismo tiemop
 
-prueba pra hacae un merhe pero manual
+git checkout -b NuevaRama
+
