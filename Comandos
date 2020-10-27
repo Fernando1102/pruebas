@@ -12,3 +12,6 @@ pwd
 #para hacer el commit
 git commit -m "cambio1"
 
+#Para ver la información de todos los commit
+git log
+
