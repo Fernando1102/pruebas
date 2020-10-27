@@ -1,0 +1,29 @@
+commit b9e96f9dff699130381c69a6d62494569a93fe56
+Author: fer <bastida1102@gmail.com>
+Date:   Mon Oct 26 23:49:22 2020 -0600
+
+    sexto commit
+
+commit 128a1b649fe5c779b847661ea64089d227921326
+Author: fer <bastida1102@gmail.com>
+Date:   Mon Oct 26 23:42:03 2020 -0600
+
+    cuarto commit
+
+commit 4566126017d5415a93d18378313c425287aadbb0
+Author: fer <bastida1102@gmail.com>
+Date:   Mon Oct 26 23:34:02 2020 -0600
+
+    tercer commit
+
+commit 97ff5cd6c41f5a772fcafac43c5618dd408635bc
+Author: fer <bastida1102@gmail.com>
+Date:   Mon Oct 26 23:32:01 2020 -0600
+
+    se agrego un texto
+
+commit f3c706498c96a504c72189f009e9f03681f6b2ec
+Author: fer <bastida1102@gmail.com>
+Date:   Mon Oct 26 11:18:43 2020 -0600
+
+    primer commit

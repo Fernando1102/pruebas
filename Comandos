@@ -27,3 +27,5 @@ git reset --mixed
 #para borrar ltodo lo que hay en el commit
 git reset --hard
 
+#para genererar un archivo del log
+git log > commits.txt
