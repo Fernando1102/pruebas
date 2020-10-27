@@ -1,0 +1,19 @@
+ramas y fusiones
+
+# el commit HEAD es el commit donde nos encontramos en el momento
+HEAD
+
+#ramas
+#es una linea del tiempo
+
+#RAMA MASTER
+	#Es la rama que se inicia cuando damos git init
+	#es la rama principal es la donde se guarda todo.
+
+#para que nos muestre las ramas es git branch
+git branch
+
+#para movernos entre ramas es
+git checkout  [nombre de la rama]
+
+

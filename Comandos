@@ -29,3 +29,6 @@ git reset --hard
 
 #para genererar un archivo del log
 git log > commits.txt
+
+
+#Cambio realizado para ver lo de guardar en ramas
