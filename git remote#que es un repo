@@ -3,5 +3,16 @@ Es un proyecto
 
 #remotos es github y locales es nuestra computadora
 
-#para pegar el remoto a la computadora es
+#para conectar el repo de la red con el repo local es la sig instruccion
 git remote add origin https://github.com/Fernando1102/pruebas.git 
+
+#para ver que si se hizo la conexion con el repo remoto es 
+git remote -v 
+
+#para eliminar el repo de la red desde el local es
+git remote remove origin
+
+#para pasar lo d ela compu a la computadora es push
+git push origin master
+
+agregamos los cambios para subir al github
