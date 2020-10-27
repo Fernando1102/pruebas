@@ -1,0 +1,72 @@
+[33mcommit a9f9519a27c17e81c473e60f43b0520fad76c462[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 119a238 80dda83
+Author: fer <bastida1102@gmail.com>
+Date:   Tue Oct 27 01:13:11 2020 -0600
+
+    ramas y fusiones
+
+[33mcommit 80dda83ddadbf0ca1b75ad5a1f6bd176e77ad802[m[33m ([m[1;32mramas[m[33m)[m
+Author: fer <bastida1102@gmail.com>
+Date:   Tue Oct 27 01:03:48 2020 -0600
+
+    fuisonar ramas
+
+[33mcommit 1dfee7b3cb5ab9ead00a57e4092a1b6da157df9c[m
+Author: fer <bastida1102@gmail.com>
+Date:   Tue Oct 27 00:59:57 2020 -0600
+
+    tercer commit en la rama con nombre ramas
+
+[33mcommit e1d54a27c803bcb1468b3fb79d06b4250018d6e8[m
+Author: fer <bastida1102@gmail.com>
+Date:   Tue Oct 27 00:58:45 2020 -0600
+
+    segundo commit en la rama con nombre ramas
+
+[33mcommit b5063bf18d6cf9bd475f17b84328bc019fd99a0c[m
+Author: fer <bastida1102@gmail.com>
+Date:   Tue Oct 27 00:54:38 2020 -0600
+
+    commit utilizado para probar el cambio de ramas
+
+[33mcommit 119a238f0768c469dc0a0dc3f8565c64a9e65303[m
+Author: fer <bastida1102@gmail.com>
+Date:   Tue Oct 27 00:50:08 2020 -0600
+
+    toda la info de comandos
+
+[33mcommit f0598124ff2894bf77fa1f647fb0ca851c757ff9[m[33m ([m[1;32mTest[m[33m)[m
+Author: fer <bastida1102@gmail.com>
+Date:   Tue Oct 27 00:14:27 2020 -0600
+
+    ultimo comitt
+
+[33mcommit b9e96f9dff699130381c69a6d62494569a93fe56[m
+Author: fer <bastida1102@gmail.com>
+Date:   Mon Oct 26 23:49:22 2020 -0600
+
+    sexto commit
+
+[33mcommit 128a1b649fe5c779b847661ea64089d227921326[m
+Author: fer <bastida1102@gmail.com>
+Date:   Mon Oct 26 23:42:03 2020 -0600
+
+    cuarto commit
+
+[33mcommit 4566126017d5415a93d18378313c425287aadbb0[m
+Author: fer <bastida1102@gmail.com>
+Date:   Mon Oct 26 23:34:02 2020 -0600
+
+    tercer commit
+
+[33mcommit 97ff5cd6c41f5a772fcafac43c5618dd408635bc[m
+Author: fer <bastida1102@gmail.com>
+Date:   Mon Oct 26 23:32:01 2020 -0600
+
+    se agrego un texto
+
+[33mcommit f3c706498c96a504c72189f009e9f03681f6b2ec[m
+Author: fer <bastida1102@gmail.com>
+Date:   Mon Oct 26 11:18:43 2020 -0600
+
+    primer commit

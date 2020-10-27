@@ -25,5 +25,7 @@ git branch -d [nombre de la rama]
 #para fuisionar la rama hacemos
 git merge [nombre de la rama]
 
+#cambio para practicar nuevamente el merge 
+
 
 
